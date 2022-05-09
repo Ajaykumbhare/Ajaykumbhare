@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as React Developer.
 - 🌱 I’m currently learning Functional Programming.
 - 📫 You can reach me at ajaykumbhare@outlook.com  
